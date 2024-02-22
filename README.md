@@ -25,3 +25,4 @@ Excel- data cleaning [Download Excel here]
 - Tranning of staffs with low sales is recmmended
 - sales promotion  should also be introduced during the months with lowest sales and the region with lowest purchase.
 - Motivation of the staffs with high sales.
+- Implement a customer survey in regions below average sales.
